@@ -53,6 +53,8 @@ const domFunction = (element) => {
     coloana1.appendChild(contain1);
     coloana2.appendChild(contain2);
     coloana3.appendChild(contain3);
+
+    
 }
 
 
